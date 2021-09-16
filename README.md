@@ -8,7 +8,7 @@ There will be interesting projects in here, I recommend keep follow from now.
 
 ### Connect with me:
 
-<a href="">
+<a href="https://www.linkedin.com/in/nafizaltay/">
     <img src="https://i.ibb.co/NjhwYF7/174857.png" alt="Logo" width="30" height="30">
   </a>
 
