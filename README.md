@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Nafiz Altay 👋
 
-<!--
-**nfzaltay/nfzaltay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science Candidate as an Industrial Engineer. I have an entrepreneurial mindset and always passionate to produce products with data added value.
 
-Here are some ideas to get you started:
+I am sure you will find some of my upcoming content and project if you are interested with Python, Tableau, Power BI and especially Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There will be interesting projects in here, I recommend keep follow from now.
+
+### Connect with me:
+
+<a href="">
+    <img src="https://i.ibb.co/NjhwYF7/174857.png" alt="Logo" width="30" height="30">
+  </a>
+
