@@ -1,6 +1,6 @@
 ### Hi, I'm Nafiz Altay 👋
 
-I am a Data Scientist Candidate as an Industrial Engineer. I have an entrepreneurial mindset and always passionate to produce products with data added value.
+I am a Data Scientist  as an Industrial Engineer. I have an entrepreneurial mindset and always passionate to produce products with data added value.
 
 I am sure you will find some of my upcoming content and project useful if you are interested with Python, Tableau, Power BI and especially Data Science.
 
