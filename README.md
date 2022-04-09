@@ -1,10 +1,10 @@
 ### Hi, I'm Nafiz Altay 👋
 
-I am a Data Scientist  as an Industrial Engineer. I have an entrepreneurial mindset and always passionate to produce products with data added value.
+I am a Data Scientist. I have an entrepreneurial mindset and always passionate to produce products with data added value.
 
-I am sure you will find some of my upcoming content and project useful if you are interested with Python, Tableau, Power BI and especially Data Science.
+Currently professionally working on ELT with Meltano, dbt, Airflow, Redshift and PowerBI.
 
-There will be interesting projects in here, I recommend keep follow from now.
+Especially experienced with machine learning.
 
 ### Connect with me:
 
